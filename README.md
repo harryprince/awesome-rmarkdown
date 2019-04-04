@@ -8,6 +8,7 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 
 ## Rmarkdown Developer Tools
 
++ [knitr: A general-purpose tool for dynamic report generation in R ]()
 + [attachment: 
 Tools to deal with dependencies in scripts, Rmd and packages](https://github.com/ThinkR-open/attachment)
 
@@ -17,7 +18,15 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown Editors
 
+
+
 ## Rmarkdown Templates
+
++ ![](https://camo.githubusercontent.com/3eaae45724be1b7b65d2f53f485a00153794cb57/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f70616765646f776e)[pagedown: Paginate the HTML Output of R Markdown with CSS for Print](https://github.com/rstudio/pagedown)
++ ![](https://camo.githubusercontent.com/d8cc9494b62517414e1ad14ca779fab9b43ad3b3/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f786172696e67616e)[xaringan: Presentation Ninja 幻灯忍者 · 写轮眼](https://github.com/yihui/xaringan)
+
++ ![](https://camo.githubusercontent.com/fc70b6d766dc92e893fa58088510061337b48ce5/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f626f6f6b646f776e)[bookdown: Authoring Books and Technical Documents with R Markdown](https://github.com/rstudio/bookdown)
+
 
 ## Rmarkdown Blogs
 
