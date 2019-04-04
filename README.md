@@ -4,11 +4,10 @@ Rmarkdown is pretty awesome tool for literature programming.
 
 This repo aims for collecting awesome Rmarkdown resources togather.
 
-## Rmarkdown in Industry
-
 ## Rmarkdown Developer Tools
 
-+ [knitr: A general-purpose tool for dynamic report generation in R ]()
++ [template: A template for my research projects, based on the R package structure](https://github.com/cboettig/template)
++ [knitr: A general-purpose tool for dynamic report generation in R ](https://github.com/yihui/knitr)
 + [attachment: 
 Tools to deal with dependencies in scripts, Rmd and packages](https://github.com/ThinkR-open/attachment)
 
@@ -18,13 +17,19 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown Editors
 
-
-
 ## Rmarkdown Templates
 
-### Beamer
+### Document
+
++ ![]() [prettydoc: Creating Pretty HTML From R Markdown](http://yixuan.cos.name/prettydoc/)
+
+### Chinese
 
 + [Template for creating Chinese beamer & PDF on Windows](https://github.com/BruceZhaoR/Zh-beamer)
+
+### Website
+
++ [rmarkdown-website-template: Template for creating your website with R markdown.](https://github.com/privefl/rmarkdown-website-template)
 
 ### HTML Page
 
@@ -41,6 +46,12 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 ### Paper
 
 + ![](https://camo.githubusercontent.com/e6fd39f323ae2c411d996b8713237983dc0a7134/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f727469636c6573) [rticles: LaTeX Journal Article Templates for R Markdown](https://github.com/rstudio/rticles)
++ ![]() [thesisdown: An updated R Markdown thesis template using the bookdown package](https://github.com/ismayc/thesisdown)
++ [rmdTemplates: R package containing a collection of Rmarkdown templates ](https://github.com/Pakillo/rmdTemplates)
+
++[uiucthemes : RMarkdown Templates for UIUC Theme-Oriented Documents(e.g. UIUC Beamer) ](https://github.com/coatless/uiucthemes)
++[ucbthesis: Latex, Knitr, and RMarkdown templates for UC Berkeley’s graduate thesis.](https://cran.r-project.org/web/packages/ucbthesis/index.html)
+
 
 ## Rmarkdown Blogs
 
