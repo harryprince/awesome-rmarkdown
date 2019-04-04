@@ -40,7 +40,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ### Paper
 
-+ ![](https://cran.r-project.org/package=rticles) [rticles: LaTeX Journal Article Templates for R Markdown](https://github.com/rstudio/rticles)
++ ![](https://camo.githubusercontent.com/e6fd39f323ae2c411d996b8713237983dc0a7134/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f727469636c6573) [rticles: LaTeX Journal Article Templates for R Markdown](https://github.com/rstudio/rticles)
 
 ## Rmarkdown Blogs
 
