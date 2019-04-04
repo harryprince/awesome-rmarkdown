@@ -49,8 +49,8 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 + ![]() [thesisdown: An updated R Markdown thesis template using the bookdown package](https://github.com/ismayc/thesisdown)
 + [rmdTemplates: R package containing a collection of Rmarkdown templates ](https://github.com/Pakillo/rmdTemplates)
 
-+[uiucthemes : RMarkdown Templates for UIUC Theme-Oriented Documents(e.g. UIUC Beamer) ](https://github.com/coatless/uiucthemes)
-+[ucbthesis: Latex, Knitr, and RMarkdown templates for UC Berkeley’s graduate thesis.](https://cran.r-project.org/web/packages/ucbthesis/index.html)
++ [uiucthemes: RMarkdown Templates for UIUC Theme-Oriented Documents(e.g. UIUC Beamer) ](https://github.com/coatless/uiucthemes)
++ [ucbthesis: Latex, Knitr, and RMarkdown templates for UC Berkeley’s graduate thesis.](https://cran.r-project.org/web/packages/ucbthesis/index.html)
 
 
 ## Rmarkdown Blogs
