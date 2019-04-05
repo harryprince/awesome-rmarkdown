@@ -21,6 +21,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown Editors
 
+* [Bookdown Tools: Visual Studio Code Extension for Bookdown](https://marketplace.visualstudio.com/items?itemName=notZaki.vscode-bookdown)
 
 ## Rmarkdown SQL
 
