@@ -36,7 +36,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ### Chinese
 
-+ [Template for creating Chinese beamer & PDF on Windows](https://github.com/BruceZhaoR/Zh-beamer)
++ [Zh-beamer: Template for creating Chinese beamer & PDF on Windows](https://github.com/BruceZhaoR/Zh-beamer)
 
 ### Website
 
