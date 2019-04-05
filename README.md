@@ -42,6 +42,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ### HTML Page
 
++ [rmdformats: HTML output formats for RMarkdown documents](https://github.com/juba/rmdformats)
 + ![](https://camo.githubusercontent.com/3eaae45724be1b7b65d2f53f485a00153794cb57/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f70616765646f776e) [pagedown: Paginate the HTML Output of R Markdown with CSS for Print](https://github.com/rstudio/pagedown)
 
 ### Slide
