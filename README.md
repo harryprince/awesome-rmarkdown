@@ -17,7 +17,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown Plugins
 
-+ ![](https://camo.githubusercontent.com/73957f886d9c8f29cdec1fdcab32d5d727406acb/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f72656d656479) [remedy: RStudio Addins to Simplify Markdown Writing ](https://github.com/ThinkR-open/remedy) 
++  [remedy: RStudio Addins to Simplify Markdown Writing ](https://github.com/ThinkR-open/remedy) ![](https://camo.githubusercontent.com/73957f886d9c8f29cdec1fdcab32d5d727406acb/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f72656d656479)
 
 ## Rmarkdown Editors
 
@@ -30,7 +30,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ### Document
 
-+ ![]() [prettydoc: Creating Pretty HTML From R Markdown](http://yixuan.cos.name/prettydoc/)
++ [prettydoc: Creating Pretty HTML From R Markdown](http://yixuan.cos.name/prettydoc/)
 
 ### Chinese
 
@@ -43,7 +43,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 ### HTML Page
 
 + [rmdformats: HTML output formats for RMarkdown documents](https://github.com/juba/rmdformats)
-+ ![](https://camo.githubusercontent.com/3eaae45724be1b7b65d2f53f485a00153794cb57/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f70616765646f776e) [pagedown: Paginate the HTML Output of R Markdown with CSS for Print](https://github.com/rstudio/pagedown)
++ [pagedown: Paginate the HTML Output of R Markdown with CSS for Print](https://github.com/rstudio/pagedown) ![](https://camo.githubusercontent.com/3eaae45724be1b7b65d2f53f485a00153794cb57/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f70616765646f776e) 
 
 ### Slide
 
@@ -51,12 +51,12 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ### Book
 
-+ ![](https://camo.githubusercontent.com/fc70b6d766dc92e893fa58088510061337b48ce5/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f626f6f6b646f776e) [bookdown: Authoring Books and Technical Documents with R Markdown](https://github.com/rstudio/bookdown)
++ [bookdown: Authoring Books and Technical Documents with R Markdown](https://github.com/rstudio/bookdown) ![](https://camo.githubusercontent.com/fc70b6d766dc92e893fa58088510061337b48ce5/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f626f6f6b646f776e) 
 
 ### Paper
 
-+ ![](https://camo.githubusercontent.com/e6fd39f323ae2c411d996b8713237983dc0a7134/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f727469636c6573) [rticles: LaTeX Journal Article Templates for R Markdown](https://github.com/rstudio/rticles)
-+ ![]() [thesisdown: An updated R Markdown thesis template using the bookdown package](https://github.com/ismayc/thesisdown)
++ [rticles: LaTeX Journal Article Templates for R Markdown](https://github.com/rstudio/rticles) ![](https://camo.githubusercontent.com/e6fd39f323ae2c411d996b8713237983dc0a7134/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f727469636c6573)
++ [thesisdown: An updated R Markdown thesis template using the bookdown package](https://github.com/ismayc/thesisdown)
 + [rmdTemplates: R package containing a collection of Rmarkdown templates ](https://github.com/Pakillo/rmdTemplates)
 
 + [uiucthemes: RMarkdown Templates for UIUC Theme-Oriented Documents(e.g. UIUC Beamer) ](https://github.com/coatless/uiucthemes)
