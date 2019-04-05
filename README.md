@@ -4,6 +4,11 @@ Rmarkdown is pretty awesome tool for literature programming.
 
 This repo aims for collecting awesome Rmarkdown resources togather.
 
+## Rmarkdown Family
+
++ [rmd: Easily Install and Load the R Markdown Family](https://github.com/pzhaonet/rmd) ![](https://camo.githubusercontent.com/ce6af9be9893327f16bfc61b857ab47e8639eab3/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f6772616e642d746f74616c2f726d64)
+
+
 ## Rmarkdown Tips
 
 * https://holtzy.github.io/Pimp-my-rmd/
