@@ -4,6 +4,10 @@ Rmarkdown is pretty awesome tool for literature programming.
 
 This repo aims for collecting awesome Rmarkdown resources togather.
 
+## Rmarkdown Tips
+
+* https://holtzy.github.io/Pimp-my-rmd/
+
 ## Rmarkdown Developer Tools
 
 + [template: A template for my research projects, based on the R package structure](https://github.com/cboettig/template)
