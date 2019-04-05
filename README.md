@@ -17,6 +17,11 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown Editors
 
+
+## Rmarkdown SQL
+
++ [rmd4j: Knitr Engine for Neo4j](https://github.com/neo4j-rstats/rmd4j)
+
 ## Rmarkdown Templates
 
 ### Document
