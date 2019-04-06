@@ -46,6 +46,10 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown Templates
 
+### Dashboard
+
++ [flexdashboard: Easy interactive dashboards for R](https://github.com/rstudio/flexdashboard)
+
 ### Document
 
 + [prettydoc: Creating Pretty HTML From R Markdown](http://yixuan.cos.name/prettydoc/)
