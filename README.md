@@ -96,4 +96,4 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown Books
 
-
++ [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
