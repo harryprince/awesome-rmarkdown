@@ -1,5 +1,7 @@
 # Awesome Rmarkdown
 
+![](https://image-static.segmentfault.com/287/168/2871686611-57c533596a560)
+
 ![](https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
 
 ## Goal
