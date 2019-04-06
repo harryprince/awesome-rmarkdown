@@ -25,6 +25,17 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 + [RStudio Rmarkdown Cheatshet 1.0](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 + [RStudio Rmarkdown Cheatshet 2.0](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 
+## Rmarkdown Publish
+
+### RStudio Connect
+
+[rsconnect: Deployment interface for Shiny applications](https://github.com/rstudio/rsconnect)
+
+### Confluence Wiki
+
++ [conflr: Post R Markdown documents to Confluence](https://github.com/line/conflr)
+
+
 ## Rmarkdown Tips
 
 * https://holtzy.github.io/Pimp-my-rmd/
@@ -39,7 +50,6 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 ## Rmarkdown Plugins
 
 + [remedy: RStudio Addins to Simplify Markdown Writing ](https://github.com/ThinkR-open/remedy) ![](https://camo.githubusercontent.com/73957f886d9c8f29cdec1fdcab32d5d727406acb/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f72656d656479)
-+ [conflr: Post R Markdown documents to Confluence](https://github.com/line/conflr)
 
 ## Rmarkdown Editors
 
