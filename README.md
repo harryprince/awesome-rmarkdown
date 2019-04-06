@@ -29,7 +29,7 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 
 ### RStudio Connect
 
-[rsconnect: Deployment interface for Shiny applications](https://github.com/rstudio/rsconnect)
++ [rsconnect: Deployment interface for Shiny applications](https://github.com/rstudio/rsconnect)
 
 ### Confluence Wiki
 
