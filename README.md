@@ -92,6 +92,8 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown Blogs
 
++ [文档定义应用：数据科学的文档革命](https://segmentfault.com/a/1190000005125984)
+
 ## Rmarkdown Books
 
 
