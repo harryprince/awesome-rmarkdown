@@ -86,6 +86,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 ### Slide
 
 + [xaringan: Presentation Ninja 幻灯忍者 · 写轮眼](https://github.com/yihui/xaringan) ![](https://camo.githubusercontent.com/d8cc9494b62517414e1ad14ca779fab9b43ad3b3/68747470733a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f786172696e67616e)
++ [**powerpoint: R Markdown to PowerPoint**](https://github.com/sol-eng/powerpoint)
 
 ### Book
 
