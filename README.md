@@ -24,6 +24,7 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 
 + [RStudio Rmarkdown Cheatshet 1.0](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 + [RStudio Rmarkdown Cheatshet 2.0](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
++ [Rmarkdown Reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 
 ## Rmarkdown Publish
 
