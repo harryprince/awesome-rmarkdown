@@ -6,7 +6,7 @@
 
 ## Goal
 
-Rmarkdown is pretty awesome tool for literature programming.
+Rmarkdown is a pretty awesome tool for literature programming.
 
 This repo aims for collecting awesome Rmarkdown resources togather.
 
@@ -60,6 +60,10 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 ## Rmarkdown SQL
 
 + [rmd4j: Knitr Engine for Neo4j](https://github.com/neo4j-rstats/rmd4j)
+
+## Rmarkdown Conversion
+
++ [ipyrmd: IPython/Jupyter notebook <--> RMarkdown converter](https://github.com/chronitis/ipyrmd)
 
 ## Rmarkdown Templates
 
