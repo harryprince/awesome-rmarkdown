@@ -111,7 +111,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 ## Rmarkdown in Academy
 
-![](https://user-images.githubusercontent.com/5362577/56295038-b56ab480-615e-11e9-85de-995b57a4dc94.png)
+![](https://user-images.githubusercontent.com/5362577/56297008-1c3d9d00-6162-11e9-9598-5f281c702937.png)
 
 ## Rmarkdown Blogs
 
