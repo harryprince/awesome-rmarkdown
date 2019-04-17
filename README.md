@@ -36,6 +36,9 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 
 + [conflr: Post R Markdown documents to Confluence](https://github.com/line/conflr)
 
+### Medium
+
++ [mediumr: R Interface to Medium API](https://github.com/yutannihilation/mediumr)
 
 ## Rmarkdown Tips
 
