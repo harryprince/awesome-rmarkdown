@@ -109,6 +109,9 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 + [uiucthemes: RMarkdown Templates for UIUC Theme-Oriented Documents(e.g. UIUC Beamer) ](https://github.com/coatless/uiucthemes)
 + [ucbthesis: Latex, Knitr, and RMarkdown templates for UC Berkeley’s graduate thesis.](https://cran.r-project.org/web/packages/ucbthesis/index.html)
 
+## Rmarkdown in Academy
+
+![](https://user-images.githubusercontent.com/5362577/56295038-b56ab480-615e-11e9-85de-995b57a4dc94.png)
 
 ## Rmarkdown Blogs
 
