@@ -121,3 +121,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 ## Rmarkdown Books
 
 + [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+## Rmarkdown Tutorials
+
++ [**bilibili: Writing Reproducible Scientific Papers in R**](https://www.bilibili.com/video/av30339125/)
