@@ -117,6 +117,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 
 + [文档定义应用：数据科学的文档革命](https://segmentfault.com/a/1190000005125984)
 + [Rendering PowerPoint Presentations with RStudio](https://support.rstudio.com/hc/en-us/articles/360004672913-Rendering-PowerPoint-Presentations-with-RStudio)
++ [Bibliography with knitr : cite your references and packages](http://r.iresmi.net/2019/02/02/bibliography-with-knitr-cite-your-references-and-packages/)
 
 ## Rmarkdown Books
 
