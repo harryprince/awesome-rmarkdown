@@ -54,6 +54,7 @@ Tools to deal with dependencies in scripts, Rmd and packages](https://github.com
 ## Rmarkdown Plugins
 
 + [remedy: RStudio Addins to Simplify Markdown Writing ](https://github.com/ThinkR-open/remedy) ![](https://camo.githubusercontent.com/73957f886d9c8f29cdec1fdcab32d5d727406acb/687474703a2f2f6372616e6c6f67732e722d706b672e6f72672f6261646765732f72656d656479)
++ [citr: RStudio Addin to Insert Markdown Citations](https://github.com/crsh/citr)
 
 ## Rmarkdown Editors
 
